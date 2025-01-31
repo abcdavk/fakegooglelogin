@@ -11,6 +11,17 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        googleblue: "#0b57d0",
+        googlehover: "#e7eefa",
+        googlebg: "#f0f4f9",
+        googlebluedark: "#a8c7fa",
+        googlehoverdark: "#1d2026",
+        googlebgdark: "#1e1f20",
+        googlebgdarkpanel: "#0e0e0e"
+
+      },
+      fontFamily: {
+        noto: ["Noto Sans", "sans-serif"], // Tambahkan font di sini
       },
     },
   },
